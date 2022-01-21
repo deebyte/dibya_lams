@@ -1,10 +1,9 @@
 ---
-title: Issues - 22⛔ 78⚠️  
+title: Issues - 22⛔ 78⚠️
 navigation: true
 ---
 
 <p style="text-align:right;color:#cccs">
-Generated Fri, 21 Jan 2022 19:29:30 GMT
 </p>
 
 <details style="margin-left: 3em" open="open">
@@ -573,5 +572,3 @@ Generated Fri, 21 Jan 2022 19:29:30 GMT
 </tr>
 </tbody>
 </table>
-
-
