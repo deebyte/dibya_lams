@@ -15,8 +15,6 @@ datagroup: dibya_lams_default_datagroup {
 persist_with: dibya_lams_default_datagroup
 
 
-# explore: distribution_centers {}
-
 explore: etl_jobs {}
 
 explore: events {
