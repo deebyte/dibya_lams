@@ -30,7 +30,9 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{github.ref}}
     - name: Set status
-      run: |
-        if [ "$ERROR" ]; then
-          exit 1
-        fi
+      if: ${{ env.ERROR }}
+      run: exit 1
+      # run: |
+      #   if [ "$ERROR" ]; then
+      #     exit 1
+      #   fi
