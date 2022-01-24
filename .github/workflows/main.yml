@@ -17,12 +17,12 @@ jobs:
       run: npm install -g @looker/look-at-me-sideways
     - name: Run LAMS
     #  See [PRIVACY.md](https://github.com/looker-open-source/look-at-me-sideways/blob/master/PRIVACY.md)
-      run: lams --reporting=yes || echo "ERROR=true" >> $GITHUB_ENV
+      run: lams --reporting=save-yes || echo "ERROR=true" >> $GITHUB_ENV
     - name: Commit changes (e.g., issues.md)
       run: |
         git add .
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "dibya.dikshit@github.com"
+        git config --local user.name "deebyte"
         git commit -m "LAMS feedback" -a
     - name: Push changes
       uses: ad-m/github-push-action@02b0b75d447f0098d40d0d65a3e6cdf2119e6f60
