@@ -1,14 +1,14 @@
 ---
-title: Issues - 22⛔ 78⚠️  
+title: Issues - 100⛔ 0⚠️  
 navigation: true
 ---
 
 <p style="text-align:right;color:#cccs">
-Generated Mon, 24 Jan 2022 20:58:52 GMT
+Generated Thu, 03 Feb 2022 08:29:55 GMT
 </p>
 
 <details style="margin-left: 3em" open="open">
-<summary style="margin-left:-1em;border-bottom:solid 1px #333;font-size:200%;">Issues (22⛔78⚠️)</summary>
+<summary style="margin-left:-1em;border-bottom:solid 1px #333;font-size:200%;">Issues (100⛔)</summary>
 
 <details style="margin-left: 3em" open="open">
 <summary style="margin-left:-1em;border-bottom:solid 1px #333;font-size:170%;"><a href="https://looker-open-source.github.io/look-at-me-sideways/rules.html#e2">E2</a>. Primary keys used (8⛔)</summary>
@@ -106,7 +106,7 @@ Generated Mon, 24 Jan 2022 20:58:52 GMT
 <td>Type:count measure at view:users/field:count does not have a filter applied</td>
 </tr></tbody></table></details>
 <details style="margin-left: 3em" open="open">
-<summary style="margin-left:-1em;border-bottom:solid 1px #333;font-size:170%;"><a href="https://looker-open-source.github.io/look-at-me-sideways/rules.html#f4">F4</a>. Description or hidden (78⚠️)</summary>
+<summary style="margin-left:-1em;border-bottom:solid 1px #333;font-size:170%;"><a href="https://looker-open-source.github.io/look-at-me-sideways/rules.html#f4">F4</a>. Description or hidden (78⛔)</summary>
 
 <table>
 <thead><tr>
@@ -116,394 +116,394 @@ Generated Mon, 24 Jan 2022 20:58:52 GMT
 </tr></thead>
 <tbody>
 <tr>
-<td>⚠️</td>
-<td>view:distribution_centers&#47;field:id </td>
-<td>view:distribution_centers/field:id is missing a description</td>
+<td>⛔</td>
+<td>view:distribution_centers&#47;dimension:id </td>
+<td>view:distribution_centers/dimension:id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:distribution_centers&#47;field:latitude </td>
-<td>view:distribution_centers/field:latitude is missing a description</td>
+<td>⛔</td>
+<td>view:distribution_centers&#47;dimension:latitude </td>
+<td>view:distribution_centers/dimension:latitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:distribution_centers&#47;field:longitude </td>
-<td>view:distribution_centers/field:longitude is missing a description</td>
+<td>⛔</td>
+<td>view:distribution_centers&#47;dimension:longitude </td>
+<td>view:distribution_centers/dimension:longitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:distribution_centers&#47;field:name </td>
-<td>view:distribution_centers/field:name is missing a description</td>
+<td>⛔</td>
+<td>view:distribution_centers&#47;dimension:name </td>
+<td>view:distribution_centers/dimension:name is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:distribution_centers&#47;field:total_latitude </td>
-<td>view:distribution_centers/field:total_latitude is missing a description</td>
+<td>⛔</td>
+<td>view:distribution_centers&#47;measure:total_latitude </td>
+<td>view:distribution_centers/measure:total_latitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:distribution_centers&#47;field:average_latitude </td>
-<td>view:distribution_centers/field:average_latitude is missing a description</td>
+<td>⛔</td>
+<td>view:distribution_centers&#47;measure:average_latitude </td>
+<td>view:distribution_centers/measure:average_latitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:distribution_centers&#47;field:count </td>
-<td>view:distribution_centers/field:count is missing a description</td>
+<td>⛔</td>
+<td>view:distribution_centers&#47;measure:count </td>
+<td>view:distribution_centers/measure:count is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:etl_jobs&#47;field:id </td>
-<td>view:etl_jobs/field:id is missing a description</td>
+<td>⛔</td>
+<td>view:etl_jobs&#47;dimension:id </td>
+<td>view:etl_jobs/dimension:id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:etl_jobs&#47;field:count </td>
-<td>view:etl_jobs/field:count is missing a description</td>
+<td>⛔</td>
+<td>view:etl_jobs&#47;measure:count </td>
+<td>view:etl_jobs/measure:count is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:id </td>
-<td>view:events/field:id is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:id </td>
+<td>view:events/dimension:id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:browser </td>
-<td>view:events/field:browser is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:browser </td>
+<td>view:events/dimension:browser is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:city </td>
-<td>view:events/field:city is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:city </td>
+<td>view:events/dimension:city is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:country </td>
-<td>view:events/field:country is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:country </td>
+<td>view:events/dimension:country is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:event_type </td>
-<td>view:events/field:event_type is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:event_type </td>
+<td>view:events/dimension:event_type is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:ip_address </td>
-<td>view:events/field:ip_address is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:ip_address </td>
+<td>view:events/dimension:ip_address is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:latitude </td>
-<td>view:events/field:latitude is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:latitude </td>
+<td>view:events/dimension:latitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:longitude </td>
-<td>view:events/field:longitude is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:longitude </td>
+<td>view:events/dimension:longitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:os </td>
-<td>view:events/field:os is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:os </td>
+<td>view:events/dimension:os is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:sequence_number </td>
-<td>view:events/field:sequence_number is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:sequence_number </td>
+<td>view:events/dimension:sequence_number is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:session_id </td>
-<td>view:events/field:session_id is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:session_id </td>
+<td>view:events/dimension:session_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:state </td>
-<td>view:events/field:state is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:state </td>
+<td>view:events/dimension:state is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:traffic_source </td>
-<td>view:events/field:traffic_source is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:traffic_source </td>
+<td>view:events/dimension:traffic_source is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:uri </td>
-<td>view:events/field:uri is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:uri </td>
+<td>view:events/dimension:uri is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:user_id </td>
-<td>view:events/field:user_id is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:user_id </td>
+<td>view:events/dimension:user_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:zip </td>
-<td>view:events/field:zip is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;dimension:zip </td>
+<td>view:events/dimension:zip is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:total_sequence_number </td>
-<td>view:events/field:total_sequence_number is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;measure:total_sequence_number </td>
+<td>view:events/measure:total_sequence_number is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:average_sequence_number </td>
-<td>view:events/field:average_sequence_number is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;measure:average_sequence_number </td>
+<td>view:events/measure:average_sequence_number is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:events&#47;field:count </td>
-<td>view:events/field:count is missing a description</td>
+<td>⛔</td>
+<td>view:events&#47;measure:count </td>
+<td>view:events/measure:count is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:id </td>
-<td>view:inventory_items/field:id is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:id </td>
+<td>view:inventory_items/dimension:id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:cost </td>
-<td>view:inventory_items/field:cost is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:cost </td>
+<td>view:inventory_items/dimension:cost is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_brand </td>
-<td>view:inventory_items/field:product_brand is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_brand </td>
+<td>view:inventory_items/dimension:product_brand is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_category </td>
-<td>view:inventory_items/field:product_category is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_category </td>
+<td>view:inventory_items/dimension:product_category is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_department </td>
-<td>view:inventory_items/field:product_department is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_department </td>
+<td>view:inventory_items/dimension:product_department is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_distribution_center_id </td>
-<td>view:inventory_items/field:product_distribution_center_id is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_distribution_center_id </td>
+<td>view:inventory_items/dimension:product_distribution_center_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_id </td>
-<td>view:inventory_items/field:product_id is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_id </td>
+<td>view:inventory_items/dimension:product_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_name </td>
-<td>view:inventory_items/field:product_name is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_name </td>
+<td>view:inventory_items/dimension:product_name is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_retail_price </td>
-<td>view:inventory_items/field:product_retail_price is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_retail_price </td>
+<td>view:inventory_items/dimension:product_retail_price is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:product_sku </td>
-<td>view:inventory_items/field:product_sku is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;dimension:product_sku </td>
+<td>view:inventory_items/dimension:product_sku is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:total_cost </td>
-<td>view:inventory_items/field:total_cost is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;measure:total_cost </td>
+<td>view:inventory_items/measure:total_cost is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:average_cost </td>
-<td>view:inventory_items/field:average_cost is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;measure:average_cost </td>
+<td>view:inventory_items/measure:average_cost is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:inventory_items&#47;field:count </td>
-<td>view:inventory_items/field:count is missing a description</td>
+<td>⛔</td>
+<td>view:inventory_items&#47;measure:count </td>
+<td>view:inventory_items/measure:count is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:id </td>
-<td>view:order_items/field:id is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;dimension:id </td>
+<td>view:order_items/dimension:id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:inventory_item_id </td>
-<td>view:order_items/field:inventory_item_id is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;dimension:inventory_item_id </td>
+<td>view:order_items/dimension:inventory_item_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:order_id </td>
-<td>view:order_items/field:order_id is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;dimension:order_id </td>
+<td>view:order_items/dimension:order_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:sale_price </td>
-<td>view:order_items/field:sale_price is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;dimension:sale_price </td>
+<td>view:order_items/dimension:sale_price is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:status </td>
-<td>view:order_items/field:status is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;dimension:status </td>
+<td>view:order_items/dimension:status is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:user_id </td>
-<td>view:order_items/field:user_id is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;dimension:user_id </td>
+<td>view:order_items/dimension:user_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:total_sale_price </td>
-<td>view:order_items/field:total_sale_price is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;measure:total_sale_price </td>
+<td>view:order_items/measure:total_sale_price is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:average_sale_price </td>
-<td>view:order_items/field:average_sale_price is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;measure:average_sale_price </td>
+<td>view:order_items/measure:average_sale_price is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:order_items&#47;field:count </td>
-<td>view:order_items/field:count is missing a description</td>
+<td>⛔</td>
+<td>view:order_items&#47;measure:count </td>
+<td>view:order_items/measure:count is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:id </td>
-<td>view:products/field:id is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:id </td>
+<td>view:products/dimension:id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:brand </td>
-<td>view:products/field:brand is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:brand </td>
+<td>view:products/dimension:brand is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:category </td>
-<td>view:products/field:category is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:category </td>
+<td>view:products/dimension:category is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:cost </td>
-<td>view:products/field:cost is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:cost </td>
+<td>view:products/dimension:cost is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:department </td>
-<td>view:products/field:department is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:department </td>
+<td>view:products/dimension:department is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:distribution_center_id </td>
-<td>view:products/field:distribution_center_id is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:distribution_center_id </td>
+<td>view:products/dimension:distribution_center_id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:name </td>
-<td>view:products/field:name is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:name </td>
+<td>view:products/dimension:name is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:retail_price </td>
-<td>view:products/field:retail_price is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:retail_price </td>
+<td>view:products/dimension:retail_price is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:sku </td>
-<td>view:products/field:sku is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;dimension:sku </td>
+<td>view:products/dimension:sku is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:total_cost </td>
-<td>view:products/field:total_cost is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;measure:total_cost </td>
+<td>view:products/measure:total_cost is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:average_cost </td>
-<td>view:products/field:average_cost is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;measure:average_cost </td>
+<td>view:products/measure:average_cost is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:products&#47;field:count </td>
-<td>view:products/field:count is missing a description</td>
+<td>⛔</td>
+<td>view:products&#47;measure:count </td>
+<td>view:products/measure:count is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:id </td>
-<td>view:users/field:id is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:id </td>
+<td>view:users/dimension:id is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:age </td>
-<td>view:users/field:age is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:age </td>
+<td>view:users/dimension:age is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:city </td>
-<td>view:users/field:city is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:city </td>
+<td>view:users/dimension:city is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:country </td>
-<td>view:users/field:country is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:country </td>
+<td>view:users/dimension:country is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:email </td>
-<td>view:users/field:email is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:email </td>
+<td>view:users/dimension:email is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:first_name </td>
-<td>view:users/field:first_name is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:first_name </td>
+<td>view:users/dimension:first_name is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:gender </td>
-<td>view:users/field:gender is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:gender </td>
+<td>view:users/dimension:gender is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:last_name </td>
-<td>view:users/field:last_name is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:last_name </td>
+<td>view:users/dimension:last_name is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:latitude </td>
-<td>view:users/field:latitude is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:latitude </td>
+<td>view:users/dimension:latitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:longitude </td>
-<td>view:users/field:longitude is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:longitude </td>
+<td>view:users/dimension:longitude is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:state </td>
-<td>view:users/field:state is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:state </td>
+<td>view:users/dimension:state is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:traffic_source </td>
-<td>view:users/field:traffic_source is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:traffic_source </td>
+<td>view:users/dimension:traffic_source is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:zip </td>
-<td>view:users/field:zip is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;dimension:zip </td>
+<td>view:users/dimension:zip is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:total_age </td>
-<td>view:users/field:total_age is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;measure:total_age </td>
+<td>view:users/measure:total_age is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:average_age </td>
-<td>view:users/field:average_age is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;measure:average_age </td>
+<td>view:users/measure:average_age is missing a description</td>
 </tr>
 <tr>
-<td>⚠️</td>
-<td>view:users&#47;field:count </td>
-<td>view:users/field:count is missing a description</td>
+<td>⛔</td>
+<td>view:users&#47;measure:count </td>
+<td>view:users/measure:count is missing a description</td>
 </tr></tbody></table></details>
 <details style="margin-left: 3em" open="open">
 <summary style="margin-left:-1em;border-bottom:solid 1px #333;font-size:170%;"><a href="https://looker-open-source.github.io/look-at-me-sideways/rules.html#k1">K1</a>. Primary keys required (7⛔)</summary>
